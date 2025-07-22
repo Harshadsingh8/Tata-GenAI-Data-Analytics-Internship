@@ -45,11 +45,3 @@ This repository showcases my participation in the *Tata GenAI-Powered Data Analy
 ## 📜 Certificate
 - Virtual Internship completed via [Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_WE2fsGXBA9PQifaKR_1752318188350_completion_certificate.pdf)
 - Issued by Tata
-
-## 📁 Files
-
-- EDA-Report.pdf – Summary of Exploratory Data Analysis
-- Business-Report.pdf – Actionable insights and findings
-- Final-Presentation.pdf – Slide deck of results and recommendations
-
----
